@@ -39,3 +39,63 @@
 #     print("#"*i, end="")
 #     print("\n")
 
+# def avg():
+#     a=int(input("Enter the number"))
+#     b=int(input("Enter the number"))
+#     c=int(input("Enter the number"))
+
+#     average=(a+b+c)/3
+#     print(average)
+
+# avg()  
+# avg()  
+# avg()  
+# avg()  
+# avg()  
+# avg()  
+
+
+# def goodday(name,ending):
+#     print(name)
+#     print(ending)
+#     return "ok"
+
+# a=goodday("arjun","Thankx")    
+# print(a)
+
+
+
+# def factorial(n):
+#     if(n==1 or n==0):
+#         return 1
+#     return n*factorial(n-1)  
+
+
+# n=int(input("Enter the number :"))
+
+# print(factorial(n))
+
+
+
+# def greatest():
+#     a=int(input("Enter the number :"))
+#     b=int(input("Enter the number :"))
+#     c=int(input("Enter the number :"))
+
+#     if(a>b and a>c):
+#         print("a is greatest")
+#     elif(b>a and b>c):
+#         print("b is greatest")  
+#     else :
+#         print("c is greatest")
+# greatest()     
+# 
+# 
+# 
+# def sum(n):
+#     if(n==1):
+#         return 1
+#     return sum(n-1)+n
+# print(sum(n=int(input("Enter the number :"))))
+             
+
