@@ -27,3 +27,4 @@
 #     sum=sum+i
 # print(sum)    
 
+n=int(input("Enter the number :"))
