@@ -99,3 +99,7 @@
 # print(sum(n=int(input("Enter the number :"))))
              
 
+# f=open("file.txt")
+# data = f.read()
+# print(data)
+# f.close()
